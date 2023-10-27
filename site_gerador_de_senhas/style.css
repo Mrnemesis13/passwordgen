@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url("logo_site_GS.png");
+    background-image: url("../logo_site_GS.png");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat   
